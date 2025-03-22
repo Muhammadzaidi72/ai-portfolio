@@ -30,7 +30,7 @@ export default function Portfolio() {
       <section className="max-w-3xl mx-auto space-y-2">
         <h2 className="text-2xl font-semibold">About Me</h2>
         <p className="text-gray-700">
-          I am a graduating student with a specialization in Artificial Intelligence. I have developed a solid understanding of modern AI technologies, and my skill set includes all the hot and in-demand tools in today’s AI-driven world. I'm passionate about solving real-world problems through innovative, data-driven solutions.
+          I am a graduate student with a specialization in Artificial Intelligence. I have developed a solid understanding of modern AI technologies, and my skill set includes all the hot and in-demand tools in today’s AI-driven world. I'm passionate about solving real-world problems through innovative, data-driven solutions.
         </p>
       </section>
 
